@@ -1,2 +1,2 @@
 # reac
-Created with CodeSandbox
+Sample react pagination project
