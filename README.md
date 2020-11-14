@@ -1,2 +1,2 @@
-# react-pagination
+# reac
 Created with CodeSandbox
